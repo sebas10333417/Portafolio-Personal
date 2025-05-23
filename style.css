@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+#t_acerca{
+    font-size: 30px;
+    text-align: center;
+    color: black;
+
+}
+
+#acerca_de{
+    border: 5px solid blue;
+    background-color: navajowhite;
+}
+
+#yo{
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+}
+
+#parrafo1{
+    text-align: center;
+
+}
+
+#habilidades{
+    text-align: center;
+}
+
+#Proyectos{
+    text-align: center;
+}
+
